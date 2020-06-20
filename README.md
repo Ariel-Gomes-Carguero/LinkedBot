@@ -1,4 +1,8 @@
 # LinkedBot
+
+
+[ATENCAO - script feito afins de estudo e compartilhamento de conhecimento, usar esse script de maneira errada vai contra as politicas do linkedin]
+
 Automatize conexões no linkedin
 
 
