@@ -40,7 +40,7 @@ def home(usuario,senha,tag,mensagem):
                 ember = driver.find_elements_by_xpath("//span[text()='Adicionar nota']")[0].click()
                 message = driver.find_element_by_id("custom-message")
                 message.send_keys(mensagem)
-                ember = driver.find_elements_by_xpath("//span[text()='Enviar convite']")[0].click()
+                ember = driver.find_elements_by_xpath("//span[text()='Concluído']")[0].click()
             else:
                 continue
 
